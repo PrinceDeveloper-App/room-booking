@@ -10,8 +10,8 @@ This project is a web-based **room booking system** that allows users to reserve
 
 * **PHP (CodeIgniter)** – backend framework  
 * **SQLite** – lightweight database for persistence  
-* **Bootstrap 5** – responsive UI  
-* **jQuery / AJAX** – dynamic interaction  
+* **Bootstrap 5** – responsive UI 
+* **JavaScript / jQuery** – Handles Dynamic UI, form validations, AJAX Requests, and real-time interactions  
 * **REST API** – programmatic access to bookings  
 
 ---
