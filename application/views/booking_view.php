@@ -17,10 +17,10 @@
             <!-- First row: Name & Purpose -->
             <div class="row mb-3">
                 <div class="col-md-6">
-                    <input name="name" class="form-control" placeholder="Name" required>
+                    <input name="name" class="form-control" placeholder="Your Name*" required>
                 </div>
                 <div class="col-md-6">
-                    <input name="purpose" class="form-control" placeholder="Purpose">
+                    <input name="purpose" class="form-control" placeholder="Purpose(Optional)">
                 </div>
             </div>
 
